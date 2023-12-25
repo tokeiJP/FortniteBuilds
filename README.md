@@ -16,6 +16,4 @@ Only Chapter 4 Season 5 is listed.
 
 ## Contact
 
-<p align="center">
-  <a href="https://discord.gg/gKKwfPv4TB">
-    <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord Server">
+Discord Server: [Fortnite Builds](https://discord.gg/QBucZMfnuH)
