@@ -1,19 +1,22 @@
 # Fortnite Builds
-Only Chapter 4 Season 5 is listed. 
+Fortnite Builds archive maintained by [tokei](https://x.com).
 
-## Usage & Other information.
+# Downloads
 
-- v27.00 will be added in the future.
-- The download location for the build is  "[Gigafire Bin](https://gigafile.nu/)".
-
-## Downloads
-
+## Season 27
 | Build                  	 | Date          	 | Engine Version	    |		    Download links             |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
 | 27.00-CL-29072304        	 |          	   	 |                 	    |		                                       |
 | 27.10-CL-29552510	                |                       |                          | https://xgf.nu/JpXMv     |
 | 27.11-CL-29739262	         	 |                	 |               	    | https://xgf.nu/YxkzC		    |
 
-## Contact
+## Season 28
+| Build                  	 | Date          	 | Engine Version	    |		    Download links             |
+| ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
+| 28.00-CL-29915848        	 |          	   	 |                 	    |		                                       |
+| 28.01-CL-30106568	                |                       |                          |                          |
+| 28.01-CL-30313795	         	 |                	 |               	    |                     		    |
+
+# Contact
 
 Discord Server: [Fortnite Builds](https://discord.gg/QBucZMfnuH)
