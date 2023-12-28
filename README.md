@@ -6,7 +6,7 @@ Fortnite Builds archive maintained by [tokei](https://x.com).
 ## Season 27
 | Build                  	 | Date          	 | Engine Version	    |		    Download links             |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| 27.00-CL-29072304        	 |          	   	 |                 	    |		                                       |
+| 27.00-CL-29072304        	 |          	   	 |                 	    |	https://xgf.nu/zgpZj	                   |
 | 27.10-CL-29552510	                |                       |                          | https://xgf.nu/JpXMv     |
 | 27.11-CL-29739262	         	 |                	 |               	    | https://xgf.nu/YxkzC		    |
 
