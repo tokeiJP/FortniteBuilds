@@ -19,4 +19,4 @@ Fortnite Builds archive maintained by [tokei](https://x.com).
 
 # Contact
 
-Discord Server: [Fortnite Builds](https://discord.gg/QBucZMfnuH)
+Discord Server: [FortniteBuilds](https://discord.gg/QBucZMfnuH)
